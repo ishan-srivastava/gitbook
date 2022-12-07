@@ -32,7 +32,7 @@ _<mark style="color:yellow;"></mark>_
 
 <figure><img src="../../.gitbook/assets/ezgif.com-gif-maker (12).gif" alt=""><figcaption><p>Adding text input fields</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ezgif.com-gif-maker (13) (1).gif" alt=""><figcaption><p>adding a desktop select</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ezgif.com-gif-maker (13).gif" alt=""><figcaption><p>adding a desktop select</p></figcaption></figure>
 
 * Now add a `button` widget ( **just like we added input and dropdown widgets )** for the form to save you from responses.Next is configuring the button behaviour, for this you need to understand about [actions.md](../../knowledge/actions.md "mention") and [triggers.md](../../knowledge/triggers.md "mention").
 
