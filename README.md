@@ -2,8 +2,7 @@
 coverY: 0
 ---
 
-# 🥬 Introduction
+# 🥬 Migration Notics
 
-Welcome to Neon, the in-house template engine used to create server-driven, server-configurable web pages. If you're here, you're probably tempted to use widgetization to create your next UI feature on your application. This guide aims to help you set up your environment quickly. Let's start :
-
-**Before anything else, please get to know our** [terminology](knowledge/terminology/ "mention")****
+Hey, we have migrated here [https://github.cmd.navi-tech.in/pages/medici/neon-docs/](https://github.cmd.navi-tech.in/pages/medici/neon-docs/) , do give us a visit.\
+Drop your quires at #neon-support channel on slack.&#x20;
