@@ -1,3 +1,3 @@
 # Table of contents
 
-* [🥬 Migration Notics](README.md)
+* [🥬 Migration Notice](README.md)
